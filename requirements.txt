@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow-cpu
+pillow
+numpy
+gdown
+gunicorn
+reportlab
